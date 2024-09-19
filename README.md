@@ -1,4 +1,13 @@
 ## Hi there 👋
+My name is Timmothy Farrel.<br>
+I'm a final year mathematics student at Sepuluh Nopember Institute of Technology.<br><br>
+
+I have an interest on Machine Learning and Data Analytics.<br>
+I also a machine learning cohort at Bangkit Academy Led by Google, Goto, Traveloka, and Tokopedia.<br>
+
+If you are interested in getting to know me, hit me up on my [LinkedIn](https://www.linkedin.com/in/timmothy-farrel-b52027219/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bm1W%2FK589RSOyH1PTlEAE3A%3D%3D) or my [Instagram](https://www.instagram.com/accounts/onetap/?next=%2F) account.
+
+
 
 <!--
 **timmyfarrel1/timmyfarrel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
